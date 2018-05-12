@@ -20,6 +20,8 @@ description: "Liza of Lambeth (1897) was W. Somerset Maugham's first novel, whic
   \ and death of Liza Kemp, an 18-year-old factory worker who lives with her aging\
   \ mother in the fictional Vere Street off Westminster Bridge Road (real) in Lambeth.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16517#Liza-of-Lambeth
 gutenberg_issued: '2005-08-12'
 gutenberg_type: Text
 identifiers:
