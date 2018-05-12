@@ -1,0 +1,40 @@
+_repo: Liza-of-Lambeth_16517
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maugham, W. Somerset (William Somerset)
+    aliases:
+    - Maugham, Somerset
+    - Maugham, William Somerset
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '126'
+    url: http://www.gutenberg.org/2009/agents/126
+    wikipedia: http://en.wikipedia.org/wiki/W._Somerset_Maugham
+description: "Liza of Lambeth (1897) was W. Somerset Maugham's first novel, which\
+  \ he wrote while he was a medical student and obstetric clerk at St Thomas's Hospital\
+  \ in Lambeth, then a working-class district of London. It depicts the short life\
+  \ and death of Liza Kemp, an 18-year-old factory worker who lives with her aging\
+  \ mother in the fictional Vere Street off Westminster Bridge Road (real) in Lambeth.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16517'
+  wikidata: Q1866618
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Working class -- England -- Fiction'
+title: Liza of Lambeth
+url: http://www.gutenberg.org/ebooks/16517
+wikipedia:
+- https://de.wikipedia.org/wiki/Liza_von_Lambeth
+- https://en.wikipedia.org/wiki/Liza_of_Lambeth
+- https://it.wikipedia.org/wiki/Liza_di_Lambeth
